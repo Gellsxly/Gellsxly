@@ -7,9 +7,9 @@
 <!-- About Me kiri semua -->
 <div align="left">
 
-<h1 align = "center">  🌊 About Me</h1>
+<h1 align = "center">  About Me</h1>
 
-*Greeting:* Hi there! I'm Gellslxy / RigelNadimaisy.👋  
+*Greeting:* Hi there! I'm Gellslxy / RigelNadimaisy.  
 
 *Currently Studying At:* Yogyakarta State University as an undergraduate student.  
 
@@ -23,7 +23,7 @@
 
 *How to Reach Me:* Feel free to connect with me [email](mailto:rigelammarusshidqi42@gmail.com)  
 
-*Motto:* God couldn't have brought you this far just to fail. 🌊  
+*Motto:* God couldn't have brought you this far just to fail. 
 
 </div>
 
